@@ -82,7 +82,9 @@ body {
   font-family: cursive;
   font-size: 2rem;
 }
-
+.card-title:hover {
+  color: aqua;
+}
 .card-description {
   flex-grow: 1;
   margin-bottom: 1.2rem;
